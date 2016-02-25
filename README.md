@@ -1,6 +1,10 @@
 # bikemath
 A spreadsheet to help calculate gear ratio and drag data for bicycles.
 
+# Downloading it
+
+You can [download the latest spreadsheet here][spreadsheet].
+
 # Opening it
 
 This file may be opened with [LibreOffice][libreoffice] or
@@ -28,3 +32,4 @@ Please submit issues using GitHub. You may contact me directly at
 
 [libreoffice]: http://www.libreoffice.org
 [openoffice]: http://www.openoffice.org
+[spreadsheet]: https://github.com/gatlin/bikemath/blob/master/bikemath.ods?raw=true
